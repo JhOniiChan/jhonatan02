@@ -5,7 +5,7 @@ $nom = "";
 $ape = "";
 $cor = "";
 $tel = "";
-/* ------ */
+/* ---PRUEBA GIT--- */
 
 $accion = @$_GET["accion"];
 if($accion=="actualizar")
